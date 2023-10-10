@@ -9,4 +9,3 @@ Welcome to AlgorithmsPlayground, my personal haven for embarking on an exhilarat
 📂 **Organized Structure**: Exercises are neatly categorized into folders based on algorithm types.
 
 🌟 **Challenge Yourself**: Dive into the "Mixed Advanced Problems" folder to tackle more complex and mind-bending challenges.
-
